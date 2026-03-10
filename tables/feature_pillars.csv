@@ -1,0 +1,5 @@
+Pillar,Count,Features,Leakage Guard
+Technical,8,"Momentum (1/3/6/12m), volatility, SMA cross, RSI, Bollinger",shift(1)
+Elo Ratings,4,"Rating, win probability, momentum, percentile rank",t-1 outcomes only
+Bayesian,3,"Shrunk return, shrinkage weight, shrunk-vs-raw",12m window ending t-1
+Macro,5,"Yield spread, VIX level, VIX change, unemployment chg, CPI YoY",FRED lagged 1m

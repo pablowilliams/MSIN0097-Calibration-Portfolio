@@ -1,0 +1,6 @@
+Test,Statistic,p-value,Interpretation
+Paired t-test (H1),t(47) = 0.545,0.294 (one-sided),Not significant
+Cohen's d,0.080,--,Below small-effect (0.20)
+Bootstrap 95% CI,"[-0.080, 0.204]",--,Crosses zero
+Bonferroni (alpha=0.025),--,--,Does not survive
+Shapiro-Wilk,W = 0.911,0.002,Non-normal

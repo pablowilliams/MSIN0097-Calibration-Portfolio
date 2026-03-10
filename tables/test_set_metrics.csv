@@ -1,0 +1,4 @@
+Model,Accuracy,ECE,Brier,AUC-ROC
+Random Forest,0.487,0.038,0.252,0.5
+XGBoost,0.483,0.044,0.253,0.491
+Logistic Regression,0.483,0.054,0.254,0.482

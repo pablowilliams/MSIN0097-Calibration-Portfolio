@@ -1,0 +1,5 @@
+Strategy,Total Return,Ann. Return,Sharpe (ann.),Max DD
+Portfolio A (XGBoost),63.4%,13.1%,0.71,-17.4%
+Portfolio B (Random Forest),68.1%,13.9%,0.77,-20.0%
+Equal Weight (1/N),68.5%,13.9%,0.82,-18.4%
+SPY Buy-and-Hold,66.1%,13.5%,0.83,-24.0%

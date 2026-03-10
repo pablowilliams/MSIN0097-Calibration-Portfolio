@@ -1,0 +1,6 @@
+Feature Set,N Features,Val ECE,Delta ECE
+Full Model,20,0.026,Baseline
+Remove Technical,12,0.028,+0.002
+Remove Elo,16,0.029,+0.003
+Remove Bayesian,17,0.028,+0.001
+Remove Macro,15,0.025,-0.001
